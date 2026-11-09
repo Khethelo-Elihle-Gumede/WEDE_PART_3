@@ -18,6 +18,8 @@ https://www.google.com/imgres?q=trousers%20jpg%20images&imgurl=https%3A%2F%2Fimg
 
 https://www.google.com/imgres?q=jeans%20jpg%20images&imgurl=https%3A%2F%2Fhips.hearstapps.com%2Fvader-prod.s3.amazonaws.com%2F1722613847-haikure-bethany-jeans-66ad003543f47.jpg%3Fcrop%3D0.763xw%3A0.858xh%3B0.119xw%2C0.0819xh%26resize%3D980%3A*&imgrefurl=https%3A%2F%2Fwww.elle.com%2Fuk%2Ffashion%2Ftrends%2Fa32337%2Fbest-denim-jeans-style-trends%2F&docid=X57t-xhafgvVNM&tbnid=ajNMQGT-Yp8hEM&vet=12ahUKEwiPyIf65PqXAxVgV0EAHb9SLl8QnPAOegUItwEQAA..i&w=980&h=1469&hcb=2&ved=2ahUKEwiPyIf65PqXAxVgV0EAHb9SLl8QnPAOegUItwEQAA
 
+https://www.google.com/imgres?q=jacket%20jpg%20images&imgurl=https%3A%2F%2Fimg.magnific.com%2Ffree-photo%2Fstill-life-rendering-jackets-display_23-2149745027.jpg%3Fsemt%3Dais_hybrid%26w%3D740%26q%3D80&imgrefurl=https%3A%2F%2Fwww.magnific.com%2Ffree-photos-vectors%2Fjackets&docid=cxMJGdkImjA4MM&tbnid=zksmZlFxc6rL9M&vet=12ahUKEwiXoemc5fqXAxXCVUEAHd6TDroQnPAOegQIOxAA..i&w=493&h=740&hcb=2&ved=2ahUKEwiXoemc5fqXAxXCVUEAHd6TDroQnPAOegQIOxAA
+
 
 
 
