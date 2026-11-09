@@ -1,0 +1,8 @@
+# Quick-Shop robots.txt
+# Website: https://www.quickshop.co.za/
+
+User-agent: * 
+Allow: /
+
+Sitemap:
+https://www.quickshop.co.za/sitemap.xml

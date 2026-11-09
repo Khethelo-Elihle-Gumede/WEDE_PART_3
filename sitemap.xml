@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset
+xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <!-- Quick-Shop Homepage -->
+   <url>
+
+<loc>https://www.quickshop.co.za/index.html</loc>
+   </url>
+
+   <!-- Product Enquiry Page -->
+   <url>
+
+<loc>https://www.quickshop.co.za/enquiry.html</loc>
+   </url>
+
+   <!-- Contact Page -->
+   <url>
+
+<loc>https://www.quickshop.co.za/contact.html</loc>
+   </url>
+
+</urlset>         

@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en-ZA">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Product Enquiries | Quick-Shop</title>
+    <meta name="description"
+          content="Enquire about clothing, prices, sizes and availability at Quick-Shop in the Pietermaritzburg and KwaZulu-Natal Midlands area.">
+    <meta name="robots" content="index, follow">
+
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <header class="site-header">
+        <a class="logo" href="index.html">Quick<span>-Shop</span></a>
+
+        <nav class="main-nav" aria-label="Main navigation">
+            <a href="index.html">Home</a>
+            <a href="index.html#products">Shop</a>
+            <a href="enquiry.html" aria-current="page">Enquiries</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+
+        <a class="cart-link" href="index.html#products">
+            Basket (<span id="cart-count">0</span>)
+        </a>
+    </header>
+
+    <main>
+        <section class="page-intro">
+            <p class="eyebrow">PRODUCT SUPPORT</p>
+            <h1>Product Enquiries</h1>
+            <p>Ask about a clothing item, size, price or availability.</p>
+        </section>
+
+        <section class="form-container">
+            <h2>How can we help?</h2>
+            <p>
+                Complete the form below. We will prepare an email
+                containing your enquiry for you to review.
+            </p>
+
+            <!-- JavaScript validates this form before preparing an email -->
+            <form class="validated-form" data-form-type="enquiry">
+                <label for="enquiry-name">Full name *</label>
+                <input id="enquiry-name" name="Full name"
+                       type="text" autocomplete="name"
+                       minlength="2" maxlength="80" required>
+
+                <label for="enquiry-email">Email address *</label>
+                <input id="enquiry-email" name="Email"
+                       type="email" autocomplete="email" required>
+
+                <label for="enquiry-phone">Phone number</label>
+                <input id="enquiry-phone" name="Phone"
+                       type="tel" autocomplete="tel"
+                       pattern="[0-9 +()-]{7,20}"
+                       title="Enter a valid phone number using digits, spaces or +()-">
+
+                <label for="enquiry-product">Product *</label>
+                <select id="enquiry-product" name="Product" required>
+                    <option value="">Choose a product</option>
+                    <option value="1">Classic White T-Shirt</option>
+                    <option value="2">Blue Denim Jeans</option>
+                    <option value="3">Everyday Summer Dress</option>
+                    <option value="4">Casual Jacket</option>
+                    <option value="5">Basic Black Top</option>
+                    <option value="6">Casual Chino Trousers</option>
+                </select>
+
+                <label for="enquiry-size">Preferred size</label>
+                <select id="enquiry-size" name="Preferred size">
+                    <option value="Not specified">Not specified</option>
+                    <option value="XS">XS</option>
+                    <option value="S">S</option>
+                    <option value="M">M</option>
+                    <option value="L">L</option>
+                    <option value="XL">XL</option>
+                    <option value="Other">Other</option>
+                </select>
+
+                <label for="enquiry-message">Your enquiry *</label>
+                <textarea id="enquiry-message" name="message"
+                          minlength="10" maxlength="1000"
+                          placeholder="Ask about price, colour, sizes or availability..."
+                          required></textarea>
+
+                <p class="form-note">* Required fields.</p>
+
+                <button class="button" type="submit">
+                    Prepare enquiry email
+                </button>
+
+                <p class="form-message" role="status"
+                   aria-live="polite"></p>
+            </form>
+        </section>
+    </main>
+
+    <footer class="site-footer">
+        <div>
+            <a class="logo footer-logo" href="index.html">
+                Quick<span>-Shop</span>
+            </a>
+            <p>Everyday style for the KZN Midlands.</p>
+        </div>
+
+        <div class="footer-links">
+            <a href="index.html">Home</a>
+            <a href="contact.html">Contact</a>
+        </div>
+
+        <p class="copyright">
+            &copy; <span id="current-year">2026</span> Quick-Shop.
+            Student website project.
+        </p>
+    </footer>
+</body>
+</html>

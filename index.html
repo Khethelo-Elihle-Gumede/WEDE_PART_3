@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Part 3: SEO title, description and keywords -->
+     <title>Quick-Shop</title>
+     <meta name="description"
+     content="Discover affordable clothing at Quick-Shop, a clothing retail website serving
+      the whole of KwaZulu-Natal Midlands and beyond.">
+    <meta name="keywords"
+    content="Quick-Shop, clothing store, affordable fashion, clothes, Pietermaritzburg, KwaZulu-Natal Midlands">
+    <meta name="robots" content="index, follow">
+    <meta name="theme-color" content="#173d35">
+    
+    <link rel="stylesheet" href="style.css">
+
+    <!--To load JavaScript after the HTML-->
+
+    <script src="script.js" defer></script>
+
+</head>
+
+<body>
+    <!--Header and Navigation-->
+
+    <header class="site-header">
+        <a class="logo" href="index.html" aria-label="Quick-Shop Home">
+            Quick<span>-Shop</span>
+        </a>
+
+        <nav class="main-nav" aria-label="Main navigation">
+            <a href="index.html" aria-current="page">Home</a>
+            <a href="#products">Shop</a>
+            <a href="#gallery">Gallery</a>
+            <a href="enquiry.html">Enquiries</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+
+        <a class="cart-link" href="#products">
+            Basket (<span id="cart-count">0</span>)
+        </a>
+    </header>
+
+    <main>
+        <!--Hero section with the business intro-->
+
+        <section class="hero">
+            <div class="hero-content">
+                <p class="eyebrow">EVERYDAY STYLE. EVERYDAY QUALITY.</p>
+                <h1>Find your style at Quick-Shop.</h1>
+                <p>
+                    Discover everyday clothing for different occasions, with a simple shopping experince for the Midlands of KwaZulu-Natal
+                    and beyond.
+                </p>
+
+                <a class="button" href="#products">Explore the collection</a>
+            </div>
+
+            <div class="hero-image">
+                <img
+                    src="images/hero-fashion.jpg"
+                    alt="Clothing collection displayed in a fashion shop"
+                    fetchpriority="high">
+            </div>
+        </section>
+
+        <!--Store Benefits-->
+
+        <section class="benefits section-wrap" aria-current="Our benefits">
+            <article>
+                <h2>Everyday fashion</h2>
+                <p>Clothing for casual and smart occasions.</p>
+
+            </article>
+            <article>
+                <h2>simple shopping</h2>
+                <p>Browse products and send an enquiry easily.</p>
+            </article>
+            <article>
+                <h2>Local connection</h2>
+                <p>Serving customers around KwaZulu-Natal.</p>
+            </article>
+        </section>
+
+        <!--Product search and Sorting-->
+
+        <section class="section-wrap products-section" id="products">
+            <div class="section-heading">
+                <p class="eyebrow">THE COLLECTION</p>
+                <h2>Shop our clothing</h2>
+                <p>Find a piece that suits your style.</p>
+            </div>
+
+            <div class="shop-controls">
+                <label for="product-search">Search</label>
+
+                <input
+                    id="product-search"
+                    type="search"
+                    placeholder="Search shirts, jeans, dresses..."
+                    aria-label="Search products">
+
+                <label for="category-filter">Category</label>
+                <select id="categoty-filter">
+                    <option value="all">All clothing</option>
+                    <option value="tops">Tops</option>
+                    <option value="bottoms">Bottoms</option>
+                    <option value="dresses">Dresses</option>
+                    <option value="outerwear">Outerwear</option>
+                </select>
+                
+                <label for="sort-products">Sort By</label>
+                <select id="sort-products">
+                    <option value="low">Price: low to high</option>
+                    <option value="high">Price: high to low</option>
+                    <option value="name">Name: A to Z</option>
+
+                </select>
+            </div>
+
+            <!--JavaScript to put product cards in the container-->
+
+            <div id="product-list" class="product-grid" aria-live="polite">
+                <p>Loading clothing collection....</p>
+            </div>
+
+            <p id="product-message" class="form-message"
+               role="status"></p>
+
+            <p class="notice">
+                Prices and products are sample information for this student project. Confirm actual stock and prices before
+                purchasing.
+            </p>   
+        </section>
+
+        <!--Image gallery with a lightbox-->
+
+        <section class="section-wrap gallery-section" id="gallery">
+            <div class="section-heading">
+                <p class="eyebrow">STYLE INSPIRATION</p>
+                <h2>Explore our gallery</h2>
+                <p>Select a photo to view it in a larger window.</p>
+            </div>
+
+            <div class="gallery-grid">
+                <button class="gallery-item"
+                        type="button"
+                        data-image="images/hero-fashion.jpg"
+                        data-caption="Our latest fashion collection">
+                    
+                    <img src="images/hero-fashion.jpg"
+                         alt="Fashion collection"
+                         loading="lazy">
+                    <span>Latest collection</span>     
+                    
+                </button>
+
+                <button class="gallery-item"
+                        type="button"
+                        data-image="images/casual-shirt.jpg"
+                        data-caption="Casaul everyday clothing">
+
+                    <img src="images/casual-shirt.jpg"
+                         alt="Casaul shirt"
+                         loading="lazy">
+                    <span>Everyday essentials</span> 
+
+                </button>
+
+                <button class="gallery-item"
+                        type="button"
+                        data-image="images/dress.jpg"
+                        data-caption="Smart and stylish outfits">
+
+                    <img src="images/dress.jpg"
+                         alt="Smart fashion outfit"
+                         loading="lazy">
+                    <span>Smart style</span> 
+
+                </button>
+
+            </div>
+
+        </section>
+
+        <!--Lightbox to open selected images in the gallery-->
+
+        <dialog id="lightbox" class="lightbox">
+            <button id="close-lightbox"
+                    class="lightbox-close"
+                    type="button"
+                    aria-label="Close image viewer">×</button>
+            <img id="lightbox-image" src="" alt="">
+            <p id="lightbox-caption"></p>        
+        </dialog>
+
+        <!--Accordion for Questions asked-->
+
+        <section class="section-wrap faq-section" 
+                 id="faq">
+
+            <div class="section-heading">
+                <p class="eyebrow">NEED HELP?</p>
+                <h2>Frequently asked questions</h2>
+            </div>
+            
+            <details class="faq-item">
+                <summary>How do I enquire about a product?</summary>
+                <p>
+                    Open the Enquiries page, select the product,
+                    enter your details and submit the form.
+                </p>
+            </details>
+
+            <details class="faq-item">
+                <summary>Can I check product availability?</summary>
+                <p>
+                    Yes. Send us an enquiry with the product name,
+                    size and the preferred color. Availability must
+                    be confirmed by the store.
+                </p>
+        
+            </details>
+
+
+        </section>
+        
+        <!--Shop Location Section -->
+
+        <section id="location" class="location-section">
+            <h2>Visit Quick-Shop</h2>
+
+            <p><strong>Adress:</strong> Shop 12, 145 Church Street, Pietermaritzburg, KwaZulu-Natal, 3201,
+            South Africa</p>
+
+            <p><strong>Phone:</strong> 033 654 1230</p>
+
+            <p><strong>Email:</strong> info@quickshop.co.za</p>
+
+            <a href="https://www.google.com/maps/search/?api=1&query=Church+Street%2C+Pietermaritzburg%2C+KwaZulu-Natal"
+
+                 target="_blank"
+                 rel="noopener noreferrer">
+                Find us on Google Maps 
+            </a>
+
+    
+        </section>
+
+            
+    </main>
+
+    <!--Footer page structure and internal links-->
+
+    <footer class="site-footer">
+        <div>
+            <a class="logo footer-logo" href="index.html">
+                Quick<span>-Shop</span>
+            </a>
+            <p>Everyday style for the People of KwaZulu-Natal.</p>
+        </div>
+
+        <div class="footer-links">
+            <a href="index.html">Home</a>
+            <a href="enquiry.html">Enquiries</a>
+            <a href="contact.html">Contact</a>
+            <a href="#faq">FAQs</a>
+        </div>
+
+        <p class="copyright">
+            &copy; 
+            <span id="Current-year">2026</span> Quick-Shop.
+        </p>
+    </footer>
+</body>
+</html>
