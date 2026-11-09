@@ -16,6 +16,7 @@ https://www.google.com/aclk?sa=L&ai=DChsSEwjRke_W4PqXAxVMlVAGHb49JL8YACICCAEQXRo
 
 https://www.google.com/imgres?q=trousers%20jpg%20images&imgurl=https%3A%2F%2Fimg.magnific.com%2Ffree-photo%2Fhand-holding-light-brown-beige-pants_23-2150756278.jpg%3Fsemt%3Dais_hybrid%26w%3D740%26q%3D80&imgrefurl=https%3A%2F%2Fwww.magnific.com%2Ffree-photos-vectors%2Ftrouser&docid=31lzdSAfJ2iqWM&tbnid=VA5HTeHDJ_HUcM&vet=12ahUKEwiVj6354_qXAxWgTkEAHUPXJu8QnPAOegQIXxAA..i&w=492&h=740&hcb=2&ved=2ahUKEwiVj6354_qXAxWgTkEAHUPXJu8QnPAOegQIXxAA
 
+https://www.google.com/imgres?q=jeans%20jpg%20images&imgurl=https%3A%2F%2Fhips.hearstapps.com%2Fvader-prod.s3.amazonaws.com%2F1722613847-haikure-bethany-jeans-66ad003543f47.jpg%3Fcrop%3D0.763xw%3A0.858xh%3B0.119xw%2C0.0819xh%26resize%3D980%3A*&imgrefurl=https%3A%2F%2Fwww.elle.com%2Fuk%2Ffashion%2Ftrends%2Fa32337%2Fbest-denim-jeans-style-trends%2F&docid=X57t-xhafgvVNM&tbnid=ajNMQGT-Yp8hEM&vet=12ahUKEwiPyIf65PqXAxVgV0EAHb9SLl8QnPAOegUItwEQAA..i&w=980&h=1469&hcb=2&ved=2ahUKEwiPyIf65PqXAxVgV0EAHb9SLl8QnPAOegUItwEQAA
 
 
 
