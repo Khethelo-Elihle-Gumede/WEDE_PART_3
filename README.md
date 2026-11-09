@@ -8,5 +8,7 @@ that I have do in class and at home (while studying) to meet all the requirement
 project needed more files to build a whole complete website that will be functional and easy to use for the customers and the 
 stuff of Quick-Shop. 
 
-The files that 
+The files that I used in this website project were contact.html , enquiry.html , robots.txt , index.html , scripts.js , style.css ,sitemap.xml and images. All these files I mentioned were an requirement for the POE to build/code this 
+website.
+
 
