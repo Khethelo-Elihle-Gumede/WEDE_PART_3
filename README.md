@@ -10,6 +10,17 @@ stuff of Quick-Shop.
 
 The files that I used in this website project were contact.html , enquiry.html , robots.txt , index.html , scripts.js , style.css ,sitemap.xml and images. All these files I mentioned were an requirement for the POE to build/code this website. On some of these files i have add comments to show understanding to what i am coding. 
 
+When i was coding this website i made sure that it looked professional and and have bold styling to have an eye catching look on the user of the
+website. All of this styling I coded in the style.css as what we were taught in class when styling a website.
+
+The contact page was coded in the contact.html where i coded the contact details of the shop. I added all the details to contact the shop and I made sure that the wording is bold and clear.
+
+The enquiry page was coded in the enquiry.html where i coded for the customers to be able to be in touch with the shop management if 
+they are unhappy with anything they might have purchased.
+
+I also made an images file where i put images of the cloths that Quick-Shop has on sale for customers. Images were needed as it was an instruction from the POE to put images 
+on the website.
+
 Below I Have refences that helped me build this code. 
 
 Image References: 
