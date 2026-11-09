@@ -22,11 +22,15 @@ https://www.google.com/imgres?q=jacket%20jpg%20images&imgurl=https%3A%2F%2Fimg.m
 
 https://www.google.com/imgres?q=casual%20shirt%20jpg%20images&imgurl=https%3A%2F%2Fimg.magnific.com%2Fpremium-photo%2Fillustration-causal-shirt_874909-6722.jpg%3Fsemt%3Dais_hybrid%26w%3D740%26q%3D80&imgrefurl=https%3A%2F%2Fwww.magnific.com%2Ffree-photos-vectors%2Fcasual-shirt&docid=AhYoYcx3f8mYyM&tbnid=C4yOaiAEKYyNbM&vet=12ahUKEwiW28Hq5_qXAxXeRUEAHbM0D-UQnPAOegUIpgEQAA..i&w=520&h=740&hcb=2&ved=2ahUKEwiW28Hq5_qXAxXeRUEAHbM0D-UQnPAOegUIpgEQAA
 
-Video References:
+Video References (To Guide Me):
 
 https://www.youtube.com/watch?v=fiWwV5V1t1U&t=25s
 
 https://www.youtube.com/watch?v=0TnO1GzKWPc
+
+https://www.youtube.com/watch?v=CYlNJpltjMM
+
+https://www.youtube.com/watch?v=y41hdTTSDsM
 
 
 
