@@ -10,7 +10,11 @@ stuff of Quick-Shop.
 
 The files that I used in this website project were contact.html , enquiry.html , robots.txt , index.html , scripts.js , style.css ,sitemap.xml and images. All these files I mentioned were an requirement for the POE to build/code this website.
 
-References: 
+Image References: 
+
+https://www.google.com/aclk?sa=L&ai=DChsSEwjRke_W4PqXAxVMlVAGHb49JL8YACICCAEQXRoCZGc&ae=2&co=1&ase=2&gclid=Cj0KCQiA-8XXBhDaARIsADnEOrCPAUUbDlx6xGU_di_NBwxQmWa8O2GZNHoGsw_L4-Nr1Cyj4zUPPLcaAnuvEALw_wcB&cid=CAAS3QHkaCpRo5SBsSvGE0xmxyADQQXUYQ7WBWbOmZ4c9pSxKmSXRf0tj2i0qjH8DZ7ugYDzvfgc5toBnQMqpoRCfYItDA8fJi32PWXOSEjz2pSnG3LZoZZo5mJekW9bgqjXXtnkaJw3yqQSb7pnMtJgz7-mszDU1SJAm1ABIz4TrD8mq-gjyb2guxdCObuQAYuVQ2R6LgalmbCkqhL5ppGQ6Y_RJ7NYg-tWEEFfKa9W8Fwhg3NTKlOErclJRDF2ZHjFoQCvrI0ryWvg1ubrA0_4KC8XsBnbu_urGcND_j-F4g&cce=2&category=acrcp_v1_71&sig=AOD64_3pn29O1tRGzeHvWl_b7MAqasfBTQ&ctype=5&q=&nis=4&ved=2ahUKEwj48OrW4PqXAxUsU0EAHYexJYQQ8w4oAHoFCOMEEAE&adurl=
+
+
 
 
 
